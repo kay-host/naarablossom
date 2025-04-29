@@ -223,5 +223,50 @@
     "categoria": "decoracao",
     "imagem": "https://down-br.img.susercontent.com/file/sg-11134201-7rccs-m6hpm7l3rr6c55.webp",
     "link": "https://s.shopee.com.br/4L6PpGc5sl"
+  },
+  {
+    "nome": "Bota feminina cano longo",
+    "codigo": "SP026",
+    "fornecedor": "shopee",
+    "tipoEnvio": "Nacional",
+    "categoria": "moda",
+    "imagem": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-lsbaqma8uhhpad@resize_w450_nl.webp",
+    "link": "https://s.shopee.com.br/4fjHB5sAWV"
+  },
+  {
+    "nome": "Lovito cinto básico",
+    "codigo": "SP027",
+    "fornecedor": "shopee",
+    "tipoEnvio": "Internacional",
+    "categoria": "moda",
+    "imagem": "https://down-br.img.susercontent.com/file/sg-11134201-7rbla-lnqlep54y1eu4c@resize_w450_nl.webp",
+    "link": "https://s.shopee.com.br/3AuTOKxsZE"
+  },
+  {
+    "nome": "Lovito camiseta casual",
+    "codigo": "SP028",
+    "fornecedor": "shopee",
+    "tipoEnvio": "Internacional",
+    "categoria": "moda",
+    "imagem": "https://down-br.img.susercontent.com/file/sg-11134201-7rbnb-lq8ulve5m2be8a@resize_w450_nl.webp",
+    "link": "https://s.shopee.com.br/30b3C1yVuD"
+  },
+  {
+    "nome": "Meia calça social clássica",
+    "codigo": "SP029",
+    "fornecedor": "shopee",
+    "tipoEnvio": "Nacional",
+    "categoria": "moda",
+    "imagem": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-lxxt11jg7p1u2b@resize_w450_nl.webp",
+    "link": "https://s.shopee.com.br/2qHcziz9FC"
+  },
+  {
+    "nome": "Lovito saia casual com laço",
+    "codigo": "SP030",
+    "fornecedor": "shopee",
+    "tipoEnvio": "Internacional",
+    "categoria": "moda",
+    "imagem": "https://down-br.img.susercontent.com/file/sg-11134201-7rd46-m7iu5u2jq8x87a@resize_w450_nl.webp",
+    "link": "https://s.shopee.com.br/2fyCnPzmaB"
   }
 ]
