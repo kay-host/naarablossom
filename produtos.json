@@ -1,0 +1,227 @@
+[
+  {
+    "nome": "Caneca hello kitty maggie",
+    "codigo": "SP001",
+    "fornecedor": "shopee",
+    "tipoEnvio": "Nacional",
+    "categoria": "utilidade",
+    "imagem": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-m3e5bjzm3z6jc5@resize_w450_nl.webp",
+    "link": "https://s.shopee.com.br/20iUncdxZI"
+  },
+  {
+    "nome": "Caneca hello kitty moma",
+    "codigo": "SP002",
+    "fornecedor": "shopee",
+    "tipoEnvio": "Nacional",
+    "categoria": "utilidade",
+    "imagem": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-m5omxrmbgy9x5a.webp",
+    "link": "https://s.shopee.com.br/2fyBpZP40i"
+  },
+  {
+    "nome": "Colar relicário coração",
+    "codigo": "SP003",
+    "fornecedor": "shopee",
+    "tipoEnvio": "Nacional",
+    "categoria": "moda",
+    "imagem": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-m6ph1wngp92ocd@resize_w450_nl.webp",
+    "link": "https://s.shopee.com.br/2qHc1sOQfl"
+  },
+  {
+    "nome": "Modelador de cachos em cetim",
+    "codigo": "SP004",
+    "fornecedor": "shopee",
+    "tipoEnvio": "Nacional",
+    "categoria": "beleza",
+    "imagem": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-m0lx5a03r1r4a6.webp",
+    "link": "https://s.shopee.com.br/30b2EBNnKo"
+  },
+  {
+    "nome": "Mini maleta organizadora",
+    "codigo": "SP005",
+    "fornecedor": "shopee",
+    "tipoEnvio": "Nacional",
+    "categoria": "utilidade",
+    "imagem": "https://down-br.img.susercontent.com/file/73bee89656c40e170d954feff283fb6b@resize_w450_nl.webp",
+    "link": "https://s.shopee.com.br/3AuSQUN9zr"
+  },
+  {
+    "nome": "Luminária bola de cristal",
+    "codigo": "SP006",
+    "fornecedor": "shopee",
+    "tipoEnvio": "Nacional",
+    "categoria": "decoracao",
+    "imagem": "https://down-br.img.susercontent.com/file/sg-11134201-7rdxb-lxlnofrzjbrg3d.webp",
+    "link": "https://s.shopee.com.br/4fjGDFHRxA"
+  },
+  {
+    "nome": "Chaveiro pelúcia bt21",
+    "codigo": "SP007",
+    "fornecedor": "shopee",
+    "tipoEnvio": "Internacional",
+    "categoria": "utilidade",
+    "imagem": "https://down-br.img.susercontent.com/file/50dff3c97b7c471854a3db2a706aafd3.webp",
+    "link": "https://s.shopee.com.br/8AJ8NtyOxm"
+  },
+  {
+    "nome": "Ring light iluminador 10 polegadas",
+    "codigo": "SP008",
+    "fornecedor": "shopee",
+    "tipoEnvio": "Internacional",
+    "categoria": "utilidade",
+    "imagem": "https://down-br.img.susercontent.com/file/sg-11134201-7qvd4-lgv2451aqd8g03.webp",
+    "link": "https://s.shopee.com.br/7zziBaz2Il"
+  },
+  {
+    "nome": "Lápis de olho 2 em 1 preto e branco",
+    "codigo": "SP009",
+    "fornecedor": "shopee",
+    "tipoEnvio": "Internacional",
+    "categoria": "beleza",
+    "imagem": "https://down-br.img.susercontent.com/file/5b56f544a39b0692fd141736bfa03b38.webp",
+    "link": "https://s.shopee.com.br/9ABfZjuaw0"
+  },
+  {
+    "nome": "Vestido lovito gola quadrada xadrez",
+    "codigo": "SP010",
+    "fornecedor": "shopee",
+    "tipoEnvio": "Internacional",
+    "categoria": "moda",
+    "imagem": "https://down-br.img.susercontent.com/file/sg-11134201-7rfi8-m3bldfus9uxx5d@resize_w450_nl.webp",
+    "link": "https://s.shopee.com.br/8zsFNQvEGz"
+  },
+  {
+    "nome": "Lovito laço de cetim ",
+    "codigo": "SP011",
+    "fornecedor": "shopee",
+    "tipoEnvio": "Internacional",
+    "categoria": "moda",
+    "imagem": "https://down-br.img.susercontent.com/file/sg-11134201-7rbnj-lo6onvlf7myr0f.webp",
+    "link": "https://s.shopee.com.br/8pYpB7vrby"
+  },
+  {
+    "nome": "Chaveiro acrilico bt21",
+    "codigo": "SP012",
+    "fornecedor": "shopee",
+    "tipoEnvio": "Internacional",
+    "categoria": "utilidade",
+    "imagem": "https://down-br.img.susercontent.com/file/sg-11134201-7rdxn-lyafd26k1p2ke3.webp",
+    "link": "https://s.shopee.com.br/6VAuOwbWKo"
+  },
+  {
+    "nome": "Mini paleta maquiagem coreana",
+    "codigo": "SP013",
+    "fornecedor": "shopee",
+    "tipoEnvio": "Internacional",
+    "categoria": "beleza",
+    "imagem": "https://down-br.img.susercontent.com/file/sg-11134301-7rbnf-lqlw0y10pmii12@resize_w450_nl.webp",
+    "link": "https://s.shopee.com.br/6KrUCdc9fn"
+  },
+  {
+    "nome": "Brilho labial maquiagem coreana",
+    "codigo": "SP014",
+    "fornecedor": "shopee",
+    "tipoEnvio": "Internacional",
+    "categoria": "beleza",
+    "imagem": "https://down-br.img.susercontent.com/file/sg-11134301-7rbkz-lqbwn9x8byna1c.webp",
+    "link": "https://s.shopee.com.br/5VIND6fKMe"
+  },
+  {
+    "nome": "Blush maquiagem coreana",
+    "codigo": "SP015",
+    "fornecedor": "shopee",
+    "tipoEnvio": "Internacional",
+    "categoria": "beleza",
+    "imagem": "https://down-br.img.susercontent.com/file/sg-11134201-7rcc2-m6hrd9fi4l1l90@resize_w450_nl.webp",
+    "link": "https://s.shopee.com.br/5Kyx0nfxhd"
+  },
+  {
+    "nome": "Jelly blush stick",
+    "codigo": "SP016",
+    "fornecedor": "shopee",
+    "tipoEnvio": "Internacional",
+    "categoria": "beleza",
+    "imagem": "https://down-br.img.susercontent.com/file/sg-11134201-7rdyj-lyaejpaynquv57.webp",
+    "link": "https://s.shopee.com.br/5pvDbie3gk"
+  },
+  {
+    "nome": "Blusa lovito sem alça",
+    "codigo": "SP017",
+    "fornecedor": "shopee",
+    "tipoEnvio": "Nacional",
+    "categoria": "moda",
+    "imagem": "https://down-br.img.susercontent.com/file/cn-11134211-7ras8-m3oc21dfko3301.webp",
+    "link": "https://s.shopee.com.br/9pRMNCYnYv"
+  },
+  {
+    "nome": "Vestido lovito sem alça",
+    "codigo": "SP018",
+    "fornecedor": "shopee",
+    "tipoEnvio": "Internacional",
+    "categoria": "moda",
+    "imagem": "https://down-br.img.susercontent.com/file/sg-11134201-7rdx1-m1iph38rahbz5f.webp",
+    "link": "https://s.shopee.com.br/9KV5mHahZq"
+  },
+  {
+    "nome": "Gloss sorvetinho fofo vivai",
+    "codigo": "SP019",
+    "fornecedor": "shopee",
+    "tipoEnvio": "Nacional",
+    "categoria": "beleza",
+    "imagem": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-m0mc0ieeqv0hdc.webp",
+    "link": "https://s.shopee.com.br/9UoVyaa4Et"
+  },
+  {
+    "nome": "Copo de vidro 3d bt21",
+    "codigo": "SP020",
+    "fornecedor": "shopee",
+    "tipoEnvio": "Internacional",
+    "categoria": "utilidade",
+    "imagem": "https://down-br.img.susercontent.com/file/01edf0975cba56bd35a38cbe193ec192@resize_w450_nl.webp",
+    "link": "https://s.shopee.com.br/AKNcy7WtY4"
+  },
+  {
+    "nome": "Orquídea artificial decoração",
+    "codigo": "SP021",
+    "fornecedor": "shopee",
+    "tipoEnvio": "Nacional",
+    "categoria": "decoracao",
+    "imagem": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-lzrvqwxpq7x152.webp",
+    "link": "https://s.shopee.com.br/AUh3AQWGD7"
+  },
+  {
+    "nome": "Tulipas artifíciais decoração",
+    "codigo": "SP022",
+    "fornecedor": "shopee",
+    "tipoEnvio": "Internacional",
+    "categoria": "decoracao",
+    "imagem": "https://down-br.img.susercontent.com/file/sg-11134301-7rdyq-ly0bb6kr8k86fe.webp",
+    "link": "https://s.shopee.com.br/4AmzcxcjDg"
+  },
+  {
+    "nome": "Estrelas adesivas brilam no escuro",
+    "codigo": "SP023",
+    "fornecedor": "shopee",
+    "tipoEnvio": "Internacional",
+    "categoria": "decoracao",
+    "imagem": "https://down-br.img.susercontent.com/file/sg-11134201-7rcd7-m6hpmmt3htyz39.webp",
+    "link": "https://s.shopee.com.br/40TZQedMYf"
+  },
+  {
+    "nome": "Fio de fada luminoso decoração",
+    "codigo": "SP024",
+    "fornecedor": "shopee",
+    "tipoEnvio": "Internacional",
+    "categoria": "decoracao",
+    "imagem": "https://down-br.img.susercontent.com/file/sg-11134201-7rcf7-m6hqywjwiljvde.webp",
+    "link": "https://s.shopee.com.br/4VPq1ZbSXm"
+  },
+  {
+    "nome": "Pelúcia hello kitty fofa",
+    "codigo": "SP025",
+    "fornecedor": "shopee",
+    "tipoEnvio": "Internacional",
+    "categoria": "decoracao",
+    "imagem": "https://down-br.img.susercontent.com/file/sg-11134201-7rccs-m6hpm7l3rr6c55.webp",
+    "link": "https://s.shopee.com.br/4L6PpGc5sl"
+  }
+]

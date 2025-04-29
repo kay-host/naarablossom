@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>NaaraBlossom</title>
+  <link href="https://fonts.googleapis.com/css2?family=Lexend&display=swap" rel="stylesheet">
+  <link href="style.css" rel="stylesheet">
+  
+</head>
+<body>
+  <header>
+    <h1>NaaraBlossom</h1>
+    <a href="https://www.instagram.com/naarablossom/" target="_blank">@naarablossom</a>
+  </header>
+
+  <div class="color"></div>
+
+  <div class="banner">
+    <img src="natura-hori..png" alt="Imagem do banner" class="banner-img">
+    <div class="banner-texto">
+      <p>Complete sua rotina de beleza com a Natura</p>
+    </div>
+    <a href="https://www.natura.com.br/consultoria/naaracosmeticos"><button class="banner-botao">Acesse aqui</button></a>
+  </div>
+
+  <div class="container">
+    <div class="filtros">
+      <input type="text" id="pesquisa" placeholder="Nome ou código do produto">
+      <select id="filtroTipo">
+        <option value="">Todos</option>
+        <option value="Nacional">Nacional</option>
+        <option value="Internacional">Internacional</option>
+      </select>
+      <select id="filtroCategoria">
+        <option value="">Todas</option>
+        <option value="moda">Moda</option>
+        <option value="beleza">Beleza</option>
+        <option value="decoracao">Decoração</option>
+        <option value="utilidade">Utilitário</option>
+      </select>
+      <select id="filtroFornecedor">
+        <option value="">Todos</option>
+        <option value="shopee">Shopee</option>
+      </select>
+      <div class="paginacao" id="paginacao-topo"></div>
+    </div>
+    <div class="produtos" id="produtos"></div>
+  </div>
+
+  <div class="paginacao" id="paginacao"></div>
+
+  <footer class="footer">
+    <div class="footer-content">
+      <div class="footer-section">
+        <h3>NaaraBlossom</h3>
+      </div>
+      <div class="footer-section">
+        <nav class="footer-links">
+          <a href="https://www.instagram.com/naarablossom/">Nos siga no instagram | @naarablossom</a>
+        </nav>
+      </div>
+      <div class="footer-section footer-copy">
+        <p>&copy; 2025 NaaraBlossom</p>
+        <p>Todos os direitos reservados</p>
+      </div>
+    </div>
+  </footer>
+
+  <script src="script.js"></script>
+
+
+</body>
+</html>
