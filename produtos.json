@@ -1,560 +1,722 @@
 [
   {
-    "nome": "Caneca hello kitty maggie",
     "codigo": "SP001",
-    "fornecedor": "shopee",
-    "tipoEnvio": "Nacional",
-    "categoria": "utilidade",
+    "nome": "Caneca Hello Kitty maggie",
     "imagem": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-m3e5bjzm3z6jc5@resize_w450_nl.webp",
-    "link": "https://s.shopee.com.br/20iUncdxZI"
+    "categoria": "utilidade",
+    "fornecedor": "shopee",
+    "link": "https://s.shopee.com.br/20iUncdxZI",
+    "tipoEnvio": "Nacional"
   },
   {
-    "nome": "Caneca hello kitty moma",
     "codigo": "SP002",
-    "fornecedor": "shopee",
-    "tipoEnvio": "Nacional",
-    "categoria": "utilidade",
+    "nome": "Caneca Hello Kitty moma",
     "imagem": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-m5omxrmbgy9x5a.webp",
-    "link": "https://s.shopee.com.br/2fyBpZP40i"
+    "categoria": "utilidade",
+    "fornecedor": "shopee",
+    "link": "https://s.shopee.com.br/2fyBpZP40i",
+    "tipoEnvio": "Nacional"
   },
   {
-    "nome": "Colar relicário coração",
     "codigo": "SP003",
-    "fornecedor": "shopee",
-    "tipoEnvio": "Nacional",
-    "categoria": "moda",
+    "nome": "Colar relicário coração",
     "imagem": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-m6ph1wngp92ocd@resize_w450_nl.webp",
-    "link": "https://s.shopee.com.br/2qHc1sOQfl"
+    "categoria": "moda",
+    "fornecedor": "shopee",
+    "link": "https://s.shopee.com.br/2qHc1sOQfl",
+    "tipoEnvio": "Nacional"
   },
   {
-    "nome": "Modelador de cachos em cetim",
     "codigo": "SP004",
-    "fornecedor": "shopee",
-    "tipoEnvio": "Nacional",
-    "categoria": "beleza",
+    "nome": "Modelador de cachos em cetim",
     "imagem": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-m0lx5a03r1r4a6.webp",
-    "link": "https://s.shopee.com.br/30b2EBNnKo"
+    "categoria": "beleza",
+    "fornecedor": "shopee",
+    "link": "https://s.shopee.com.br/30b2EBNnKo",
+    "tipoEnvio": "Nacional"
   },
   {
-    "nome": "Mini maleta organizadora",
     "codigo": "SP005",
-    "fornecedor": "shopee",
-    "tipoEnvio": "Nacional",
-    "categoria": "utilidade",
+    "nome": "Mini maleta organizadora",
     "imagem": "https://down-br.img.susercontent.com/file/73bee89656c40e170d954feff283fb6b@resize_w450_nl.webp",
-    "link": "https://s.shopee.com.br/3AuSQUN9zr"
+    "categoria": "utilidade",
+    "fornecedor": "shopee",
+    "link": "https://s.shopee.com.br/3AuSQUN9zr",
+    "tipoEnvio": "Nacional"
   },
   {
-    "nome": "Luminária bola de cristal",
     "codigo": "SP006",
-    "fornecedor": "shopee",
-    "tipoEnvio": "Nacional",
-    "categoria": "decoracao",
+    "nome": "Luminária bola de cristal",
     "imagem": "https://down-br.img.susercontent.com/file/sg-11134201-7rdxb-lxlnofrzjbrg3d.webp",
-    "link": "https://s.shopee.com.br/4fjGDFHRxA"
+    "categoria": "decoracao",
+    "fornecedor": "shopee",
+    "link": "https://s.shopee.com.br/4fjGDFHRxA",
+    "tipoEnvio": "Nacional"
   },
   {
-    "nome": "Chaveiro pelúcia bt21",
     "codigo": "SP007",
-    "fornecedor": "shopee",
-    "tipoEnvio": "Internacional",
-    "categoria": "utilidade",
+    "nome": "Chaveiro pelúcia BT21",
     "imagem": "https://down-br.img.susercontent.com/file/50dff3c97b7c471854a3db2a706aafd3.webp",
-    "link": "https://s.shopee.com.br/8AJ8NtyOxm"
+    "categoria": "utilidade",
+    "fornecedor": "shopee",
+    "link": "https://s.shopee.com.br/8AJ8NtyOxm",
+    "tipoEnvio": "Internacional"
   },
   {
-    "nome": "Ring light iluminador 10 polegadas",
     "codigo": "SP008",
-    "fornecedor": "shopee",
-    "tipoEnvio": "Internacional",
-    "categoria": "utilidade",
+    "nome": "Ring light iluminador 10 polegadas",
     "imagem": "https://down-br.img.susercontent.com/file/sg-11134201-7qvd4-lgv2451aqd8g03.webp",
-    "link": "https://s.shopee.com.br/7zziBaz2Il"
+    "categoria": "utilidade",
+    "fornecedor": "shopee",
+    "link": "https://s.shopee.com.br/7zziBaz2Il",
+    "tipoEnvio": "Internacional"
   },
   {
-    "nome": "Lápis de olho 2 em 1 preto e branco",
     "codigo": "SP009",
-    "fornecedor": "shopee",
-    "tipoEnvio": "Internacional",
-    "categoria": "beleza",
+    "nome": "Lápis de olho 2 em 1 preto e branco",
     "imagem": "https://down-br.img.susercontent.com/file/5b56f544a39b0692fd141736bfa03b38.webp",
-    "link": "https://s.shopee.com.br/9ABfZjuaw0"
+    "categoria": "beleza",
+    "fornecedor": "shopee",
+    "link": "https://s.shopee.com.br/9ABfZjuaw0",
+    "tipoEnvio": "Internacional"
   },
   {
-    "nome": "Vestido lovito gola quadrada xadrez",
     "codigo": "SP010",
-    "fornecedor": "shopee",
-    "tipoEnvio": "Internacional",
-    "categoria": "moda",
+    "nome": "Vestido lovito gola quadrada xadrez",
     "imagem": "https://down-br.img.susercontent.com/file/sg-11134201-7rfi8-m3bldfus9uxx5d@resize_w450_nl.webp",
-    "link": "https://s.shopee.com.br/8zsFNQvEGz"
+    "categoria": "moda",
+    "fornecedor": "shopee",
+    "link": "https://s.shopee.com.br/8zsFNQvEGz",
+    "tipoEnvio": "Internacional"
   },
   {
-    "nome": "Lovito laço de cetim ",
     "codigo": "SP011",
-    "fornecedor": "shopee",
-    "tipoEnvio": "Internacional",
-    "categoria": "moda",
+    "nome": "Lovito laço de cetim ",
     "imagem": "https://down-br.img.susercontent.com/file/sg-11134201-7rbnj-lo6onvlf7myr0f.webp",
-    "link": "https://s.shopee.com.br/8pYpB7vrby"
+    "categoria": "moda",
+    "fornecedor": "shopee",
+    "link": "https://s.shopee.com.br/8pYpB7vrby",
+    "tipoEnvio": "Internacional"
   },
   {
-    "nome": "Chaveiro acrilico bt21",
     "codigo": "SP012",
-    "fornecedor": "shopee",
-    "tipoEnvio": "Internacional",
-    "categoria": "utilidade",
+    "nome": "Chaveiro acrilico BT21",
     "imagem": "https://down-br.img.susercontent.com/file/sg-11134201-7rdxn-lyafd26k1p2ke3.webp",
-    "link": "https://s.shopee.com.br/6VAuOwbWKo"
+    "categoria": "utilidade",
+    "fornecedor": "shopee",
+    "link": "https://s.shopee.com.br/6VAuOwbWKo",
+    "tipoEnvio": "Internacional"
   },
   {
-    "nome": "Mini paleta maquiagem coreana",
     "codigo": "SP013",
-    "fornecedor": "shopee",
-    "tipoEnvio": "Internacional",
-    "categoria": "beleza",
+    "nome": "Mini paleta maquiagem coreana",
     "imagem": "https://down-br.img.susercontent.com/file/sg-11134301-7rbnf-lqlw0y10pmii12@resize_w450_nl.webp",
-    "link": "https://s.shopee.com.br/6KrUCdc9fn"
+    "categoria": "beleza",
+    "fornecedor": "shopee",
+    "link": "https://s.shopee.com.br/6KrUCdc9fn",
+    "tipoEnvio": "Internacional"
   },
   {
-    "nome": "Brilho labial maquiagem coreana",
     "codigo": "SP014",
-    "fornecedor": "shopee",
-    "tipoEnvio": "Internacional",
-    "categoria": "beleza",
+    "nome": "Brilho labial maquiagem coreana",
     "imagem": "https://down-br.img.susercontent.com/file/sg-11134301-7rbkz-lqbwn9x8byna1c.webp",
-    "link": "https://s.shopee.com.br/5VIND6fKMe"
+    "categoria": "beleza",
+    "fornecedor": "shopee",
+    "link": "https://s.shopee.com.br/5VIND6fKMe",
+    "tipoEnvio": "Internacional"
   },
   {
-    "nome": "Blush maquiagem coreana",
     "codigo": "SP015",
-    "fornecedor": "shopee",
-    "tipoEnvio": "Internacional",
-    "categoria": "beleza",
+    "nome": "Blush maquiagem coreana",
     "imagem": "https://down-br.img.susercontent.com/file/sg-11134201-7rcc2-m6hrd9fi4l1l90@resize_w450_nl.webp",
-    "link": "https://s.shopee.com.br/5Kyx0nfxhd"
+    "categoria": "beleza",
+    "fornecedor": "shopee",
+    "link": "https://s.shopee.com.br/5Kyx0nfxhd",
+    "tipoEnvio": "Internacional"
   },
   {
-    "nome": "Jelly blush stick",
     "codigo": "SP016",
-    "fornecedor": "shopee",
-    "tipoEnvio": "Internacional",
-    "categoria": "beleza",
+    "nome": "Jelly blush stick",
     "imagem": "https://down-br.img.susercontent.com/file/sg-11134201-7rdyj-lyaejpaynquv57.webp",
-    "link": "https://s.shopee.com.br/5pvDbie3gk"
+    "categoria": "beleza",
+    "fornecedor": "shopee",
+    "link": "https://s.shopee.com.br/5pvDbie3gk",
+    "tipoEnvio": "Internacional"
   },
   {
-    "nome": "Blusa lovito sem alça",
     "codigo": "SP017",
-    "fornecedor": "shopee",
-    "tipoEnvio": "Nacional",
-    "categoria": "moda",
+    "nome": "Blusa lovito sem alça",
     "imagem": "https://down-br.img.susercontent.com/file/cn-11134211-7ras8-m3oc21dfko3301.webp",
-    "link": "https://s.shopee.com.br/9pRMNCYnYv"
+    "categoria": "moda",
+    "fornecedor": "shopee",
+    "link": "https://s.shopee.com.br/9pRMNCYnYv",
+    "tipoEnvio": "Nacional"
   },
   {
-    "nome": "Vestido lovito sem alça",
     "codigo": "SP018",
-    "fornecedor": "shopee",
-    "tipoEnvio": "Internacional",
-    "categoria": "moda",
+    "nome": "Vestido lovito sem alça",
     "imagem": "https://down-br.img.susercontent.com/file/sg-11134201-7rdx1-m1iph38rahbz5f.webp",
-    "link": "https://s.shopee.com.br/9KV5mHahZq"
+    "categoria": "moda",
+    "fornecedor": "shopee",
+    "link": "https://s.shopee.com.br/9KV5mHahZq",
+    "tipoEnvio": "Internacional"
   },
   {
-    "nome": "Gloss sorvetinho fofo vivai",
     "codigo": "SP019",
-    "fornecedor": "shopee",
-    "tipoEnvio": "Nacional",
-    "categoria": "beleza",
+    "nome": "Gloss sorvetinho fofo vivai",
     "imagem": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-m0mc0ieeqv0hdc.webp",
-    "link": "https://s.shopee.com.br/9UoVyaa4Et"
+    "categoria": "beleza",
+    "fornecedor": "shopee",
+    "link": "https://s.shopee.com.br/9UoVyaa4Et",
+    "tipoEnvio": "Nacional"
   },
   {
-    "nome": "Copo de vidro 3d bt21",
     "codigo": "SP020",
-    "fornecedor": "shopee",
-    "tipoEnvio": "Internacional",
-    "categoria": "utilidade",
+    "nome": "Copo de vidro 3d BT21",
     "imagem": "https://down-br.img.susercontent.com/file/01edf0975cba56bd35a38cbe193ec192@resize_w450_nl.webp",
-    "link": "https://s.shopee.com.br/AKNcy7WtY4"
-  },
-  {
-    "nome": "Orquídea artificial decoração",
-    "codigo": "SP021",
-    "fornecedor": "shopee",
-    "tipoEnvio": "Nacional",
-    "categoria": "decoracao",
-    "imagem": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-lzrvqwxpq7x152.webp",
-    "link": "https://s.shopee.com.br/AUh3AQWGD7"
-  },
-  {
-    "nome": "Tulipas artifíciais decoração",
-    "codigo": "SP022",
-    "fornecedor": "shopee",
-    "tipoEnvio": "Internacional",
-    "categoria": "decoracao",
-    "imagem": "https://down-br.img.susercontent.com/file/sg-11134301-7rdyq-ly0bb6kr8k86fe.webp",
-    "link": "https://s.shopee.com.br/4AmzcxcjDg"
-  },
-  {
-    "nome": "Estrelas adesivas brilam no escuro",
-    "codigo": "SP023",
-    "fornecedor": "shopee",
-    "tipoEnvio": "Internacional",
-    "categoria": "decoracao",
-    "imagem": "https://down-br.img.susercontent.com/file/sg-11134201-7rcd7-m6hpmmt3htyz39.webp",
-    "link": "https://s.shopee.com.br/40TZQedMYf"
-  },
-  {
-    "nome": "Fio de fada luminoso decoração",
-    "codigo": "SP024",
-    "fornecedor": "shopee",
-    "tipoEnvio": "Internacional",
-    "categoria": "decoracao",
-    "imagem": "https://down-br.img.susercontent.com/file/sg-11134201-7rcf7-m6hqywjwiljvde.webp",
-    "link": "https://s.shopee.com.br/4VPq1ZbSXm"
-  },
-  {
-    "nome": "Pelúcia hello kitty fofa",
-    "codigo": "SP025",
-    "fornecedor": "shopee",
-    "tipoEnvio": "Internacional",
-    "categoria": "decoracao",
-    "imagem": "https://down-br.img.susercontent.com/file/sg-11134201-7rccs-m6hpm7l3rr6c55.webp",
-    "link": "https://s.shopee.com.br/4L6PpGc5sl"
-  },
-  {
-    "nome": "Bota feminina cano longo",
-    "codigo": "SP026",
-    "fornecedor": "shopee",
-    "tipoEnvio": "Nacional",
-    "categoria": "moda",
-    "imagem": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-lsbaqma8uhhpad@resize_w450_nl.webp",
-    "link": "https://s.shopee.com.br/4fjHB5sAWV"
-  },
-  {
-    "nome": "Lovito cinto básico",
-    "codigo": "SP027",
-    "fornecedor": "shopee",
-    "tipoEnvio": "Internacional",
-    "categoria": "moda",
-    "imagem": "https://down-br.img.susercontent.com/file/sg-11134201-7rbla-lnqlep54y1eu4c@resize_w450_nl.webp",
-    "link": "https://s.shopee.com.br/3AuTOKxsZE"
-  },
-  {
-    "nome": "Lovito camiseta casual",
-    "codigo": "SP028",
-    "fornecedor": "shopee",
-    "tipoEnvio": "Internacional",
-    "categoria": "moda",
-    "imagem": "https://down-br.img.susercontent.com/file/sg-11134201-7rbnb-lq8ulve5m2be8a@resize_w450_nl.webp",
-    "link": "https://s.shopee.com.br/30b3C1yVuD"
-  },
-  {
-    "nome": "Meia calça social clássica",
-    "codigo": "SP029",
-    "fornecedor": "shopee",
-    "tipoEnvio": "Nacional",
-    "categoria": "moda",
-    "imagem": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-lxxt11jg7p1u2b@resize_w450_nl.webp",
-    "link": "https://s.shopee.com.br/2qHcziz9FC"
-  },
-  {
-    "nome": "Lovito saia casual com laço",
-    "codigo": "SP030",
-    "fornecedor": "shopee",
-    "tipoEnvio": "Internacional",
-    "categoria": "moda",
-    "imagem": "https://down-br.img.susercontent.com/file/sg-11134201-7rd46-m7iu5u2jq8x87a@resize_w450_nl.webp",
-    "link": "https://s.shopee.com.br/2fyCnPzmaB"
-  },
-  {
-    "nome": "Tênis feminino casual branco",
-    "codigo": "SP031",
-    "fornecedor": "shopee",
-    "tipoEnvio": "Nacional",
-    "categoria": "moda",
-    "imagem": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-lz92pmd849b9e3@resize_w450_nl.webp",
-    "link": "https://s.shopee.com.br/40TdqH5CTg"
-  },
-  {
-    "nome": "Calça jeans mom feminina",
-    "codigo": "SP032",
-    "fornecedor": "shopee",
-    "tipoEnvio": "Nacional",
-    "categoria": "moda",
-    "imagem": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-lvqobnsf21wsa2@resize_w450_nl.webp",
-    "link": "https://s.shopee.com.br/4An42a4Z8j"
-  },
-  {
-    "nome": "Lovito camiseta básica",
-    "codigo": "SP033",
-    "fornecedor": "shopee",
-    "tipoEnvio": "Internacional",
-    "categoria": "moda",
-    "imagem": "https://down-br.img.susercontent.com/file/sg-11134201-7reoa-m1ofl5kw4xqh74.webp",
-    "link": "https://s.shopee.com.br/4L6UEt3vnm"
-  },
-  {
-    "nome": "Lovito regata com babado",
-    "codigo": "SP034",
-    "fornecedor": "shopee",
-    "tipoEnvio": "Internacional",
-    "categoria": "moda",
-    "imagem": "https://down-br.img.susercontent.com/file/sg-11134201-7reqn-m8x9nujwctcy19@resize_w450_nl.webp",
-    "link": "https://s.shopee.com.br/4VPuRC3ISp"
-  },
-  {
-    "nome": "Pillow Top Percal",
-    "codigo": "SP035",
-    "fornecedor": "shopee",
-    "tipoEnvio": "Nacional",
-    "categoria": "decoracao",
-    "imagem": "https://down-br.img.susercontent.com/file/sg-11134201-7rdwx-m0ye4wp728fka4.webp",
-    "link": "https://s.shopee.com.br/30bCPqtMHT"
-  },
-  {
-    "nome": "Livro para colorir",
-    "codigo": "SP036",
-    "fornecedor": "shopee",
-    "tipoEnvio": "Nacional",
     "categoria": "utilidade",
-    "imagem": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-m8p6fx3p0sg2cc@resize_w450_nl.webp",
-    "link": "https://s.shopee.com.br/3VXT0lrSGa"
+    "fornecedor": "shopee",
+    "link": "https://s.shopee.com.br/AKNcy7WtY4",
+    "tipoEnvio": "Internacional"
   },
   {
-    "nome": "Stick Blush",
+    "codigo": "SP021",
+    "nome": "Orquídea artificial decoração",
+    "imagem": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-lzrvqwxpq7x152.webp",
+    "categoria": "decoracao",
+    "fornecedor": "shopee",
+    "link": "https://s.shopee.com.br/AUh3AQWGD7",
+    "tipoEnvio": "Nacional"
+  },
+  {
+    "codigo": "SP022",
+    "nome": "Tulipas artifíciais decoração",
+    "imagem": "https://down-br.img.susercontent.com/file/sg-11134301-7rdyq-ly0bb6kr8k86fe.webp",
+    "categoria": "decoracao",
+    "fornecedor": "shopee",
+    "link": "https://s.shopee.com.br/4AmzcxcjDg",
+    "tipoEnvio": "Internacional"
+  },
+  {
+    "codigo": "SP023",
+    "nome": "Estrelas adesivas brilam no escuro",
+    "imagem": "https://down-br.img.susercontent.com/file/sg-11134201-7rcd7-m6hpmmt3htyz39.webp",
+    "categoria": "decoracao",
+    "fornecedor": "shopee",
+    "link": "https://s.shopee.com.br/40TZQedMYf",
+    "tipoEnvio": "Internacional"
+  },
+  {
+    "codigo": "SP024",
+    "nome": "Fio de fada luminoso decoração",
+    "imagem": "https://down-br.img.susercontent.com/file/sg-11134201-7rcf7-m6hqywjwiljvde.webp",
+    "categoria": "decoracao",
+    "fornecedor": "shopee",
+    "link": "https://s.shopee.com.br/4VPq1ZbSXm",
+    "tipoEnvio": "Internacional"
+  },
+  {
+    "codigo": "SP025",
+    "nome": "Pelúcia Hello Kitty fofa",
+    "imagem": "https://down-br.img.susercontent.com/file/sg-11134201-7rccs-m6hpm7l3rr6c55.webp",
+    "categoria": "decoracao",
+    "fornecedor": "shopee",
+    "link": "https://s.shopee.com.br/4L6PpGc5sl",
+    "tipoEnvio": "Internacional"
+  },
+  {
+    "codigo": "SP026",
+    "nome": "Bota feminina cano longo",
+    "imagem": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-lsbaqma8uhhpad@resize_w450_nl.webp",
+    "categoria": "moda",
+    "fornecedor": "shopee",
+    "link": "https://s.shopee.com.br/4fjHB5sAWV",
+    "tipoEnvio": "Nacional"
+  },
+  {
+    "codigo": "SP027",
+    "nome": "Lovito cinto básico",
+    "imagem": "https://down-br.img.susercontent.com/file/sg-11134201-7rbla-lnqlep54y1eu4c@resize_w450_nl.webp",
+    "categoria": "moda",
+    "fornecedor": "shopee",
+    "link": "https://s.shopee.com.br/3AuTOKxsZE",
+    "tipoEnvio": "Internacional"
+  },
+  {
+    "codigo": "SP028",
+    "nome": "Lovito camiseta casual manga longa",
+    "imagem": "https://down-br.img.susercontent.com/file/sg-11134201-7rbnb-lq8ulve5m2be8a@resize_w450_nl.webp",
+    "categoria": "moda",
+    "fornecedor": "shopee",
+    "link": "https://s.shopee.com.br/30b3C1yVuD",
+    "tipoEnvio": "Internacional"
+  },
+  {
+    "codigo": "SP029",
+    "nome": "Meia calça social clássica",
+    "imagem": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-lxxt11jg7p1u2b@resize_w450_nl.webp",
+    "categoria": "moda",
+    "fornecedor": "shopee",
+    "link": "https://s.shopee.com.br/2qHcziz9FC",
+    "tipoEnvio": "Nacional"
+  },
+  {
+    "codigo": "SP030",
+    "nome": "Lovito saia casual com laço",
+    "imagem": "https://down-br.img.susercontent.com/file/sg-11134201-7rd46-m7iu5u2jq8x87a@resize_w450_nl.webp",
+    "categoria": "moda",
+    "fornecedor": "shopee",
+    "link": "https://s.shopee.com.br/2fyCnPzmaB ",
+    "tipoEnvio": "Internacional"
+  },
+  {
+    "codigo": "SP031",
+    "nome": "Tênis feminino casual branco",
+    "imagem": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-lz92pmd849b9e3@resize_w450_nl.webp",
+    "categoria": "moda",
+    "fornecedor": "shopee",
+    "link": "https://s.shopee.com.br/40TdqH5CTg",
+    "tipoEnvio": "Nacional"
+  },
+  {
+    "codigo": "SP032",
+    "nome": "Calça jeans mom feminina",
+    "imagem": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-lvqobnsf21wsa2@resize_w450_nl.webp",
+    "categoria": "moda",
+    "fornecedor": "shopee",
+    "link": "https://s.shopee.com.br/4An42a4Z8j",
+    "tipoEnvio": "Nacional"
+  },
+  {
+    "codigo": "SP033",
+    "nome": "Lovito camiseta básica",
+    "imagem": "https://down-br.img.susercontent.com/file/sg-11134201-7reoa-m1ofl5kw4xqh74.webp",
+    "categoria": "moda",
+    "fornecedor": "shopee",
+    "link": "https://s.shopee.com.br/4L6UEt3vnm",
+    "tipoEnvio": "Internacional"
+  },
+  {
+    "codigo": "SP034",
+    "nome": "Lovito regata com babado",
+    "imagem": "https://down-br.img.susercontent.com/file/sg-11134201-7reqn-m8x9nujwctcy19@resize_w450_nl.webp",
+    "categoria": "moda",
+    "fornecedor": "shopee",
+    "link": "https://s.shopee.com.br/4VPuRC3ISp",
+    "tipoEnvio": "Internacional"
+  },
+  {
+    "codigo": "SP035",
+    "nome": "2 Pcs relógio feminino liga de ouro",
+    "imagem": "https://down-br.img.susercontent.com/file/sg-11134301-7rd5f-m6zcle1ip7nc73.webp",
+    "categoria": "moda",
+    "fornecedor": "shopee",
+    "link": "https://s.shopee.com.br/4q2mfwLnYp",
+    "tipoEnvio": "Internacional"
+  },
+  {
+    "codigo": "SP036",
+    "nome": "Par de brincos argola",
+    "imagem": "https://down-br.img.susercontent.com/file/sg-11134301-7rcej-ltam2hj0fu4o33.webp",
+    "categoria": "moda",
+    "fornecedor": "shopee",
+    "link": "https://s.shopee.com.br/4L6W51NhZk",
+    "tipoEnvio": "Internacional"
+  },
+  {
     "codigo": "SP037",
+    "nome": "Salto agulha scarpin",
+    "imagem": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-m6cvcw5xmk5hab.webp",
+    "categoria": "moda",
     "fornecedor": "shopee",
-    "tipoEnvio": "Internacional",
-    "categoria": "beleza",
-    "imagem": "https://down-br.img.susercontent.com/file/sg-11134301-7rd6y-lvstccvo38so0c@resize_w450_nl.webp",
-    "link": "https://s.shopee.com.br/3LE2oSs5bZ"
+    "link": "https://s.shopee.com.br/4VPwHKN4En",
+    "tipoEnvio": "Nacional"
   },
   {
-    "nome": "Hidratante labial Carmed",
     "codigo": "SP038",
+    "nome": "Lovito calça jeans casual simples",
+    "imagem": "https://down-br.img.susercontent.com/file/sg-11134201-7rfg1-m49vbva3uy5bad.webp",
+    "categoria": "moda",
     "fornecedor": "shopee",
-    "tipoEnvio": "Nacional",
-    "categoria": "beleza",
-    "imagem": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-m0d8qx723tr153@resize_w450_nl.webp",
-    "link": "https://s.shopee.com.br/3qAJPNqBag"
+    "link": "https://s.shopee.com.br/40TfgPOyFi",
+    "tipoEnvio": "Internacional"
   },
   {
-    "nome": "Blusa feminina decote quadrado",
     "codigo": "SP039",
-    "fornecedor": "shopee",
-    "tipoEnvio": "Nacional",
+    "nome": "Lovito blusa feminina branca elegante",
+    "imagem": "https://down-br.img.susercontent.com/file/sg-11134201-7ra27-m4u14jg4mjr45a.webp",
     "categoria": "moda",
-    "imagem": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-lzko1nvj25hd48.webp",
-    "link": "https://s.shopee.com.br/5fbuZNDFqG"
+    "fornecedor": "shopee",
+    "link": "https://s.shopee.com.br/4An5siOKul",
+    "tipoEnvio": "Internacional"
   },
   {
-    "nome": "Camisa feminina quadriculada",
     "codigo": "SP040",
-    "fornecedor": "shopee",
-    "tipoEnvio": "Nacional",
-    "categoria": "moda",
+    "nome": "Camisa feminina quadriculada",
     "imagem": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-lv2jmg2yjh61ec@resize_w450_nl.webp",
-    "link": "https://s.shopee.com.br/4fjNOvYQnA"
+    "categoria": "moda",
+    "fornecedor": "shopee",
+    "link": "https://s.shopee.com.br/4fjNOvYQnA",
+    "tipoEnvio": "Nacional"
   },
   {
-    "nome": "Calça jeans feminina wide leg",
     "codigo": "SP041",
-    "fornecedor": "shopee",
-    "tipoEnvio": "Nacional",
-    "categoria": "moda",
+    "nome": "Calça jeans feminina wide leg",
     "imagem": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-lwg2653cjb0yb2@resize_w450_nl.webp",
-    "link": "https://s.shopee.com.br/VtoRGoIFL"
+    "categoria": "moda",
+    "fornecedor": "shopee",
+    "link": "https://s.shopee.com.br/VtoRGoIFL",
+    "tipoEnvio": "Nacional"
   },
   {
-    "nome": "Tênis feminino branco",
     "codigo": "SP042",
-    "fornecedor": "shopee",
-    "tipoEnvio": "Nacional",
-    "categoria": "moda",
+    "nome": "Tênis feminino branco",
     "imagem": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-lq5b10frbhgnd1@resize_w450_nl.webp",
-    "link": "https://s.shopee.com.br/5VIUN4DtBH"
+    "categoria": "moda",
+    "fornecedor": "shopee",
+    "link": "https://s.shopee.com.br/5VIUN4DtBH",
+    "tipoEnvio": "Nacional"
   },
   {
-    "nome": "Body feminino decote quadrado",
     "codigo": "SP043",
-    "fornecedor": "shopee",
-    "tipoEnvio": "Nacional",
-    "categoria": "moda",
+    "nome": "Body feminino decote quadrado",
     "imagem": "https://down-br.img.susercontent.com/file/sg-11134201-7rdx6-m01lsbs5zge284@resize_w450_nl.webp",
-    "link": "https://s.shopee.com.br/20icD2yQMe"
+    "categoria": "moda",
+    "fornecedor": "shopee",
+    "link": "https://s.shopee.com.br/20icD2yQMe",
+    "tipoEnvio": "Nacional"
   },
   {
-    "nome": "Lovito vestido com botões",
     "codigo": "SP044",
-    "fornecedor": "shopee",
-    "tipoEnvio": "Internacional",
-    "categoria": "moda",
+    "nome": "Lovito vestido com botões",
     "imagem": "https://down-br.img.susercontent.com/file/sg-11134201-7rfgy-m3vo22oval7p3c@resize_w450_nl.webp",
-    "link": "https://s.shopee.com.br/3LDzpmgfkv"
+    "categoria": "moda",
+    "fornecedor": "shopee",
+    "link": "https://s.shopee.com.br/3LDzpmgfkv",
+    "tipoEnvio": "Internacional"
   },
   {
-    "nome": "Meia 7/8 sem renda",
     "codigo": "SP045",
-    "fornecedor": "shopee",
-    "tipoEnvio": "Nacional",
-    "categoria": "moda",
+    "nome": "Meia 7/8 sem renda",
     "imagem": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-m52tldu4v7np6f@resize_w450_nl.webp",
-    "link": "https://s.shopee.com.br/3qAGQhelk2"
+    "categoria": "moda",
+    "fornecedor": "shopee",
+    "link": "https://s.shopee.com.br/3qAGQhelk2",
+    "tipoEnvio": "Nacional"
   },
   {
-    "nome": "Sandália feminina salto alto Vizzano",
     "codigo": "SP046",
-    "fornecedor": "shopee",
-    "tipoEnvio": "Nacional",
-    "categoria": "moda",
+    "nome": "Sandália feminina salto alto Vizzano",
     "imagem": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-m6gsaa925flz62@resize_w450_nl.webp",
-    "link": "https://s.shopee.com.br/9ABmmhSojE"
-  },
-  {
-    "nome": "Blush stick",
-    "codigo": "SP047",
-    "fornecedor": "shopee",
-    "tipoEnvio": "Internacional",
-    "categoria": "beleza",
-    "imagem": "https://down-br.img.susercontent.com/file/sg-11134301-7rd6y-lvstccvo38so0c@resize_w450_nl.webp",
-    "link": "https://s.shopee.com.br/3LE2oSs5bZ"
-  },
-  {
-    "nome": "4 capas para almofadas",
-    "codigo": "SP048",
-    "fornecedor": "shopee",
-    "tipoEnvio": "Nacional",
-    "categoria": "decoracao",
-    "imagem": "https://down-br.img.susercontent.com/file/a7ee6bc2f33cffee99510f13c39df0b4@resize_w450_nl.webp",
-    "link": "https://s.shopee.com.br/xcU7zBry"
-  },
-  {
-    "nome": "Kit cobre leito casal 3 peças",
-    "codigo": "SP049",
-    "fornecedor": "shopee",
-    "tipoEnvio": "Nacional",
-    "categoria": "decoracao",
-    "imagem": "https://down-br.img.susercontent.com/file/b5485deb59ebcb37684f96a8a3abd74e@resize_w450_nl.webp",
-    "link": "https://s.shopee.com.br/BH2gQyYX1"
-  },
-  {
-    "nome": "Kit colcha cobre leito solteiro/casal",
-    "codigo": "SP050",
-    "fornecedor": "shopee",
-    "tipoEnvio": "Nacional",
-    "categoria": "decoracao",
-    "imagem": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-m8b15tdxnpjl2b@resize_w450_nl.webp",
-    "link": "https://s.shopee.com.br/2LLXGPqJ8S"
-  },
-  {
-    "nome": "Cortina voil bordada",
-    "codigo": "SP051",
-    "fornecedor": "shopee",
-    "tipoEnvio": "Nacional",
-    "categoria": "decoracao",
-    "imagem": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-m1oggo33xb69b1@resize_w450_nl.webp",
-    "link": "https://s.shopee.com.br/2VexSipfnV"
-  },
-  {
-    "nome": "Cortina com blackout",
-    "codigo": "SP052",
-    "fornecedor": "shopee",
-    "tipoEnvio": "Nacional",
-    "categoria": "decoracao",
-    "imagem": "https://down-br.img.susercontent.com/file/br-11134201-22120-wye6tp88mmlvac.webp",
-    "link": "https://s.shopee.com.br/20igrnrZoQ"
-  },
-  {
-    "nome": "Kit mesa lateral redonda",
-    "codigo": "SP053",
-    "fornecedor": "shopee",
-    "tipoEnvio": "Nacional",
-    "categoria": "decoracao",
-    "imagem": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-m4j0src8sypt90@resize_w450_nl.webp",
-    "link": "https://s.shopee.com.br/9KVHbdG5KN"
-  },
-  {
-    "nome": "Kit 3 quadros decorativos",
-    "codigo": "SP054",
-    "fornecedor": "shopee",
-    "tipoEnvio": "Nacional",
-    "categoria": "decoracao",
-    "imagem": "https://down-br.img.susercontent.com/file/sg-11134201-7rdy7-m02rwozp8xk763@resize_w450_nl.webp",
-    "link": "https://s.shopee.com.br/AUhEzmBdxc"
-  },
-  {
-    "nome": "Camisa xadrez feminina",
-    "codigo": "SP055",
-    "fornecedor": "shopee",
-    "tipoEnvio": "Nacional",
     "categoria": "moda",
+    "fornecedor": "shopee",
+    "link": "https://s.shopee.com.br/9ABmmhSojE",
+    "tipoEnvio": "Nacional"
+  },
+  {
+    "codigo": "SP047",
+    "nome": "Blush stick",
+    "imagem": "https://down-br.img.susercontent.com/file/sg-11134301-7rd6y-lvstccvo38so0c@resize_w450_nl.webp",
+    "categoria": "beleza",
+    "fornecedor": "shopee",
+    "link": "https://s.shopee.com.br/3LE2oSs5bZ",
+    "tipoEnvio": "Internacional"
+  },
+  {
+    "codigo": "SP048",
+    "nome": "4 capas para almofadas",
+    "imagem": "https://down-br.img.susercontent.com/file/a7ee6bc2f33cffee99510f13c39df0b4@resize_w450_nl.webp",
+    "categoria": "decoracao",
+    "fornecedor": "shopee",
+    "link": "https://s.shopee.com.br/xcU7zBry",
+    "tipoEnvio": "Nacional"
+  },
+  {
+    "codigo": "SP049",
+    "nome": "Kit cobre leito casal 3 peças",
+    "imagem": "https://down-br.img.susercontent.com/file/b5485deb59ebcb37684f96a8a3abd74e@resize_w450_nl.webp",
+    "categoria": "decoracao",
+    "fornecedor": "shopee",
+    "link": "https://s.shopee.com.br/BH2gQyYX1",
+    "tipoEnvio": "Nacional"
+  },
+  {
+    "codigo": "SP050",
+    "nome": "Kit colcha cobre leito solteiro/casal",
+    "imagem": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-m8b15tdxnpjl2b@resize_w450_nl.webp",
+    "categoria": "decoracao",
+    "fornecedor": "shopee",
+    "link": "https://s.shopee.com.br/2LLXGPqJ8S",
+    "tipoEnvio": "Nacional"
+  },
+  {
+    "codigo": "SP051",
+    "nome": "Cortina voil bordada",
+    "imagem": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-m1oggo33xb69b1@resize_w450_nl.webp",
+    "categoria": "decoracao",
+    "fornecedor": "shopee",
+    "link": "https://s.shopee.com.br/2VexSipfnV",
+    "tipoEnvio": "Nacional"
+  },
+  {
+    "codigo": "SP052",
+    "nome": "Cortina com blackout",
+    "imagem": "https://down-br.img.susercontent.com/file/br-11134201-22120-wye6tp88mmlvac.webp",
+    "categoria": "decoracao",
+    "fornecedor": "shopee",
+    "link": "https://s.shopee.com.br/20igrnrZoQ",
+    "tipoEnvio": "Nacional"
+  },
+  {
+    "codigo": "SP053",
+    "nome": "Kit mesa lateral redonda",
+    "imagem": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-m4j0src8sypt90@resize_w450_nl.webp",
+    "categoria": "decoracao",
+    "fornecedor": "shopee",
+    "link": "https://s.shopee.com.br/9KVHbdG5KN",
+    "tipoEnvio": "Nacional"
+  },
+  {
+    "codigo": "SP054",
+    "nome": "Kit 3 quadros decorativos",
+    "imagem": "https://down-br.img.susercontent.com/file/sg-11134201-7rdy7-m02rwozp8xk763@resize_w450_nl.webp",
+    "categoria": "decoracao",
+    "fornecedor": "shopee",
+    "link": "https://s.shopee.com.br/AUhEzmBdxc",
+    "tipoEnvio": "Nacional"
+  },
+  {
+    "codigo": "SP055",
+    "nome": "Camisa xadrez feminina",
     "imagem": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-m839a9cgld7533@resize_w450_nl.webp",
-    "link": "https://s.shopee.com.br/5pvKlgCcVJ"
+    "categoria": "moda",
+    "fornecedor": "shopee",
+    "link": "https://s.shopee.com.br/5pvKlgCcVJ",
+    "tipoEnvio": "Nacional"
   },
   {
-    "nome": "Mini tulipa artificial 5 pçs",
     "codigo": "SP056",
-    "fornecedor": "shopee",
-    "tipoEnvio": "Internacional",
-    "categoria": "decoracao",
+    "nome": "Mini tulipa artificial 5 pçs",
     "imagem": "https://down-br.img.susercontent.com/file/sg-11134201-7rdxo-lyaeiwl4on1m8e.webp",
-    "link": "https://s.shopee.com.br/AA4ObACuda"
+    "categoria": "decoracao",
+    "fornecedor": "shopee",
+    "link": "https://s.shopee.com.br/AA4ObACuda",
+    "tipoEnvio": "Internacional"
   },
   {
-    "nome": "Quadro decorativo grande lirio",
     "codigo": "SP057",
-    "fornecedor": "shopee",
-    "tipoEnvio": "Nacional",
-    "categoria": "decoracao",
+    "nome": "Quadro decorativo grande lirio",
     "imagem": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-m2wrc7k3b30l06.webp",
-    "link": "https://s.shopee.com.br/AKNonTCHIb"
+    "categoria": "decoracao",
+    "fornecedor": "shopee",
+    "link": "https://s.shopee.com.br/AKNonTCHIb",
+    "tipoEnvio": "Nacional"
   },
   {
-    "nome": "Kit vaso de cerâmica eucalipto artificial",
     "codigo": "SP058",
-    "fornecedor": "shopee",
-    "tipoEnvio": "Nacional",
-    "categoria": "decoracao",
+    "nome": "Kit vaso de cerâmica eucalipto artificial",
     "imagem": "https://down-br.img.susercontent.com/file/sg-11134201-7rd5z-lx7708iksnuyaa.webp",
-    "link": "https://s.shopee.com.br/9zkyOrDXyZ"
+    "categoria": "decoracao",
+    "fornecedor": "shopee",
+    "link": "https://s.shopee.com.br/9zkyOrDXyZ",
+    "tipoEnvio": "Nacional"
   },
   {
-    "nome": "Manta gigante para sofá",
     "codigo": "SP059",
-    "fornecedor": "shopee",
-    "tipoEnvio": "Nacional",
-    "categoria": "decoracao",
+    "nome": "Manta gigante para sofá",
     "imagem": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-m1yjhel9f5jl8a.webp",
-    "link": "https://s.shopee.com.br/6Krg2NLjK0"
+    "categoria": "decoracao",
+    "fornecedor": "shopee",
+    "link": "https://s.shopee.com.br/6Krg2NLjK0",
+    "tipoEnvio": "Nacional"
   },
   {
-    "nome": "Kit 2 mini vasos de orquidea artificial",
     "codigo": "SP060",
-    "fornecedor": "shopee",
-    "tipoEnvio": "Nacional",
-    "categoria": "decoracao",
+    "nome": "Kit 2 mini vasos de orquidea artificial",
     "imagem": "https://down-br.img.susercontent.com/file/c13ddc7fbf0a2ced65f77892bf2ccc59@resize_w450_nl.webp",
-    "link": "https://s.shopee.com.br/5pvPRSNdKr"
+    "categoria": "decoracao",
+    "fornecedor": "shopee",
+    "link": "https://s.shopee.com.br/5pvPRSNdKr",
+    "tipoEnvio": "Nacional"
   },
   {
-    "nome": "Tapete jacquard antiderrapante",
     "codigo": "SP061",
-    "fornecedor": "shopee",
-    "tipoEnvio": "Nacional",
-    "categoria": "decoracao",
+    "nome": "Tapete jacquard antiderrapante",
     "imagem": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-m8271ckb0f75ca@resize_w450_nl.webp",
-    "link": "https://s.shopee.com.br/5Kz8qXPXLm"
+    "categoria": "decoracao",
+    "fornecedor": "shopee",
+    "link": "https://s.shopee.com.br/5Kz8qXPXLm",
+    "tipoEnvio": "Nacional"
   },
   {
-    "nome": "Mesa de cabeceira minimalista",
     "codigo": "SP062",
-    "fornecedor": "shopee",
-    "tipoEnvio": "Nacional",
-    "categoria": "decoracao",
+    "nome": "Mesa de cabeceira minimalista",
     "imagem": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-m7icdm3tmt6y31@resize_w450_nl.webp",
-    "link": "https://s.shopee.com.br/5VIZ2qOu0p"
+    "categoria": "decoracao",
+    "fornecedor": "shopee",
+    "link": "https://s.shopee.com.br/5VIZ2qOu0p",
+    "tipoEnvio": "Nacional"
+  },
+  {
+    "codigo": "SP063",
+    "nome": "Pillow Top Percal",
+    "imagem": "https://down-br.img.susercontent.com/file/sg-11134201-7rdwx-m0ye4wp728fka4.webp",
+    "categoria": "decoracao",
+    "fornecedor": "shopee",
+    "link": "https://s.shopee.com.br/30bCPqtMHT",
+    "tipoEnvio": "Nacional"
+  },
+  {
+    "codigo": "SP064",
+    "nome": "Livro para colorir",
+    "imagem": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-m8p6fx3p0sg2cc@resize_w450_nl.webp",
+    "categoria": "utilidade",
+    "fornecedor": "shopee",
+    "link": "https://s.shopee.com.br/3VXT0lrSGa",
+    "tipoEnvio": "Nacional"
+  },
+  {
+    "codigo": "SP065",
+    "nome": "Stick Blush",
+    "imagem": "https://down-br.img.susercontent.com/file/sg-11134301-7rd6y-lvstccvo38so0c@resize_w450_nl.webp",
+    "categoria": "beleza",
+    "fornecedor": "shopee",
+    "link": "https://s.shopee.com.br/3LE2oSs5bZ",
+    "tipoEnvio": "Internacional"
+  },
+  {
+    "codigo": "SP066",
+    "nome": "Hidratante labial Carmed",
+    "imagem": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-m0d8qx723tr153@resize_w450_nl.webp",
+    "categoria": "beleza",
+    "fornecedor": "shopee",
+    "link": "https://s.shopee.com.br/3qAJPNqBag",
+    "tipoEnvio": "Nacional"
+  },
+  {
+    "codigo": "SP067",
+    "nome": "Blusa feminina decote quadrado",
+    "imagem": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-lzko1nvj25hd48.webp",
+    "categoria": "moda",
+    "fornecedor": "shopee",
+    "link": "https://s.shopee.com.br/5fbuZNDFqG",
+    "tipoEnvio": "Nacional"
+  },
+  {
+    "codigo": "SP068",
+    "nome": "Relógio dourado feminino",
+    "imagem": "https://down-br.img.susercontent.com/file/sg-11134201-7rcel-lrhfdg5g4wqa94.webp",
+    "categoria": "moda",
+    "fornecedor": "shopee",
+    "link": "https://s.shopee.com.br/1VmTm9hIDZ",
+    "tipoEnvio": "Nacional"
+  },
+  {
+    "codigo": "SP069",
+    "nome": "Bolsa feminina média transversal",
+    "imagem": "https://down-br.img.susercontent.com/file/br-11134201-22120-9r8oh7790flv73.webp",
+    "categoria": "moda",
+    "fornecedor": "shopee",
+    "link": "https://s.shopee.com.br/1g5tySgesc",
+    "tipoEnvio": "Nacional"
+  },
+  {
+    "codigo": "SP070",
+    "nome": "Vestido midi botões manga curta",
+    "imagem": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-m6d3qbbbb1qdaf.webp",
+    "categoria": "moda",
+    "fornecedor": "shopee",
+    "link": "https://s.shopee.com.br/1qPKAlg1Xf",
+    "tipoEnvio": "Nacional"
+  },
+  {
+    "codigo": "SP071",
+    "nome": "Kit 3 piranhas presilhas de cabelo",
+    "imagem": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-m1ebsimqkaxsef.webp",
+    "categoria": "moda",
+    "fornecedor": "shopee",
+    "link": "https://s.shopee.com.br/20ikN4fOCi",
+    "tipoEnvio": "Nacional"
+  },
+  {
+    "codigo": "SP072",
+    "nome": "Macacão feminino longo pantalona",
+    "imagem": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-m91we9pr8dfm86.webp",
+    "categoria": "moda",
+    "fornecedor": "shopee",
+    "link": "https://s.shopee.com.br/2B2AZNekrl",
+    "tipoEnvio": "Nacional"
+  },
+  {
+    "codigo": "SP073",
+    "nome": "Óculos de sol feminino",
+    "imagem": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-m5u5540dsl2q7e.webp",
+    "categoria": "moda",
+    "fornecedor": "shopee",
+    "link": "https://s.shopee.com.br/10qDBJcdhX",
+    "tipoEnvio": "Nacional"
+  },
+  {
+    "codigo": "SP074",
+    "nome": "Cinto feminino fivela de metal",
+    "imagem": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-m41zei7yal3583.webp",
+    "categoria": "moda",
+    "fornecedor": "shopee",
+    "link": "https://s.shopee.com.br/6po085oYVw",
+    "tipoEnvio": "Nacional"
+  },
+  {
+    "codigo": "SP075",
+    "nome": "Sandália salto alto Beira Rio",
+    "imagem": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-lzp7x84wan8l51.webp",
+    "categoria": "moda",
+    "fornecedor": "shopee",
+    "link": "https://s.shopee.com.br/6fUZvmpBqv",
+    "tipoEnvio": "Nacional"
+  },
+  {
+    "codigo": "SP076",
+    "nome": "Tênis casual vizzano feminino",
+    "imagem": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-m8z67cxzzn7dac.webp",
+    "categoria": "moda",
+    "fornecedor": "shopee",
+    "link": "https://s.shopee.com.br/7AQqWhnHq2",
+    "tipoEnvio": "Nacional"
+  },
+  {
+    "codigo": "SP077",
+    "nome": "Mondial secador de cabelo",
+    "imagem": "https://down-br.img.susercontent.com/file/57a543c1e83398e5f8a8cea1f0eacaa8.webp",
+    "categoria": "utilidade",
+    "fornecedor": "shopee",
+    "link": "https://s.shopee.com.br/707QKOnvB1",
+    "tipoEnvio": "Nacional"
+  },
+  {
+    "codigo": "SP078",
+    "nome": "Trio de brincos argola banhado a ouro",
+    "imagem": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-m62sdiktlwvm45.webp",
+    "categoria": "moda",
+    "fornecedor": "shopee",
+    "link": "https://s.shopee.com.br/6AYJKrr5rs",
+    "tipoEnvio": "Nacional"
+  },
+  {
+    "codigo": "SP079",
+    "nome": "Sobretudo feminino para frio",
+    "imagem": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-m89sa6d68i5t4b.webp",
+    "categoria": "moda",
+    "fornecedor": "shopee",
+    "link": "https://s.shopee.com.br/4L6f9fgQkf",
+    "tipoEnvio": "Nacional"
+  },
+  {
+    "codigo": "SP080",
+    "nome": "Cachecol lenço feminino de inverno",
+    "imagem": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-lw00l1lbprclfe.webp",
+    "categoria": "moda",
+    "fornecedor": "shopee",
+    "link": "https://s.shopee.com.br/1g5u11QpN6",
+    "tipoEnvio": "Nacional"
   }
 ]
